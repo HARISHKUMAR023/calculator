@@ -1,0 +1,23 @@
+body {
+
+    background-color: black;
+
+}
+
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.cla-walper {
+    margin-top: 20px;
+    background-color: white;
+    width: 400px;
+    border-radius: 16px;
+}
+
+.row {
+    display: flex;
+}
